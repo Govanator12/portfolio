@@ -152,7 +152,7 @@ p.lead {
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
-  max-width: 75rem
+  max-width: 85rem;
 }
 
 section.resume-section .resume-item .resume-date {
@@ -166,6 +166,7 @@ section.resume-section .resume-item .resume-date {
 
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;
+    max-width: 60rem;
     margin-left: 300px;
   }
 }
@@ -175,6 +176,10 @@ section.resume-section .resume-item .resume-date {
     padding-top: 3rem !important;
     padding-bottom: 3rem !important
   }
+}
+
+.img-thumbnail{
+
 }
 
 .bg-primary {
