@@ -178,8 +178,11 @@ section.resume-section .resume-item .resume-date {
   }
 }
 
-.img-thumbnail{
-
+.interest-img {
+  margin: auto;
+  max-width: 100%;
+  width: 100%;
+  height: auto;
 }
 
 .bg-primary {
