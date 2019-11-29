@@ -204,3 +204,7 @@ a {
 a:active, a:focus, a:hover {
   color: #824027
 }
+
+.stl {
+  margin-bottom: 50px;
+}
